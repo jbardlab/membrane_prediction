@@ -1,0 +1,230 @@
+ID   sp|P61619|S61A1_HUMAN
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test2
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test3
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test4
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test5
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test6
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test7
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test8
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test9
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//
+ID   test10
+FT   DOMAIN        1     31       CYTOPLASMIC.
+FT   TRANSMEM     32     54       
+FT   DOMAIN       55     73       NON CYTOPLASMIC.
+FT   TRANSMEM     74     97       
+FT   DOMAIN       98    117       CYTOPLASMIC.
+FT   TRANSMEM    118    137       
+FT   DOMAIN      138    142       NON CYTOPLASMIC.
+FT   TRANSMEM    143    165       
+FT   DOMAIN      166    171       CYTOPLASMIC.
+FT   TRANSMEM    172    193       
+FT   DOMAIN      194    204       NON CYTOPLASMIC.
+FT   TRANSMEM    205    221       
+FT   DOMAIN      222    241       CYTOPLASMIC.
+FT   TRANSMEM    242    263       
+FT   DOMAIN      264    282       NON CYTOPLASMIC.
+FT   TRANSMEM    283    303       
+FT   DOMAIN      304    412       CYTOPLASMIC.
+FT   TRANSMEM    413    431       
+FT   DOMAIN      432    436       NON CYTOPLASMIC.
+FT   TRANSMEM    437    458       
+FT   DOMAIN      459    476       CYTOPLASMIC.
+//

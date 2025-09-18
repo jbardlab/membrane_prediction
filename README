@@ -1,0 +1,5 @@
+Make sure Docker is installed and open
+In your terminal, type "docker network create biolib-proxy-network"
+Then install the pixi environment with "pixi install"
+Then try running: 
+"pixi run biolib run --local DTU/DeepTMHMM:1.0.24 --fasta example/Sec61A_P61619.fasta"
