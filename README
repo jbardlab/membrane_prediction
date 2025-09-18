@@ -1,5 +1,10 @@
-Make sure Docker is installed and open
-In your terminal, type "docker network create biolib-proxy-network"
-Then install the pixi environment with "pixi install"
-Then try running: 
-"pixi run biolib run --local DTU/DeepTMHMM:1.0.24 --fasta example/Sec61A_P61619.fasta"
+Two separate docker containers to pull onto grace.
+First is the Phobius directory, downloaded from https://phobius.sbc.su.se/data.html.
+The phobius script was modified slightly to run the 64bit decodeanhmm binary, but otherwise it can just be run directly using perl.
+
+Second is deeptmhmm from https://dtu.biolib.com/DeepTMHMM and
+https://www.biorxiv.org/content/10.1101/2022.04.08.487609v1
+
+singularity pull deeptmhmm_latest.sif docker://deeptmhmm/deeptmhmm:latest
+
+To run deeptmhmm, use the deeptmhmm_scripts/run_deeptmhmm.sh script, which mounts the input and output directories and runs the prediction script inside the container. Make sure to modify the input_fasta_dir, input_fasta, and output_dir variables as needed.

@@ -22,7 +22,7 @@ use FindBin;
 #use seq_tools;
 
 my $PHOBIUS_DIR =      "$FindBin::RealBin";
-my $DECODEANHMM =      "$PHOBIUS_DIR/decodeanhmm.64bit";
+my $DECODEANHMM =      "$PHOBIUS_DIR/decodeanhmm.64bit"; # modified from original
 my $PHOBIUS_OPT_FILE = "$PHOBIUS_DIR/phobius.options";
 my $MODELFILE =        "$PHOBIUS_DIR/phobius.model";
 my $PHOBIUS =          "$DECODEANHMM -f $PHOBIUS_OPT_FILE $PHOBIUS_DIR/phobius.model";
@@ -178,7 +178,7 @@ sub read_predict {
 
 sub printLongN1{
   my $seqid = $_[1];
-  my $predstr;
+  my $predstr = "";
   my ($label,$start,$stop);
   my ($tm,$sp);
   my $hanger = 0;
