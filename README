@@ -1,10 +1,13 @@
-Two separate docker containers to pull onto grace.
+Two separate membrane prediction tools:
+
 First is the Phobius directory, downloaded from https://phobius.sbc.su.se/data.html.
-The phobius script was modified slightly to run the 64bit decodeanhmm binary, but otherwise it can just be run directly using perl.
+The phobius script was modified slightly to run the 64bit decodeanhmm binary, but otherwise it can just be run directly using perl on macos or linux.
 
 Second is deeptmhmm from https://dtu.biolib.com/DeepTMHMM and
 https://www.biorxiv.org/content/10.1101/2022.04.08.487609v1
 
+This needs to be run inside their container, which can be pulled from dockerhub.
+
 singularity pull deeptmhmm_latest.sif docker://deeptmhmm/deeptmhmm:latest
 
-To run deeptmhmm, use the deeptmhmm_scripts/run_deeptmhmm.sh script, which mounts the input and output directories and runs the prediction script inside the container. Make sure to modify the input_fasta_dir, input_fasta, and output_dir variables as needed.
+To run deeptmhmm, use the deeptmhmm_scripts/run_deeptmhmm.sh script, which mounts the input and output directories and runs the prediction script inside the container. Make sure to modify the input_fasta_dir, input_fasta, and output_dir variables as needed. The tricky bit was that in singularity, the files all needed to be copied to a temporary directory to avoid read-only permission errors, then the results copied back to the output directory.
